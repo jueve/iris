@@ -28,8 +28,8 @@ sbt "run ./sample/sample1.nes"
 
 * W ... up
 * A ... left
-* S ... right
-* D ... down
+* S ... down
+* D ... right
 * K ... A
 * J ... B
 * Control ... Select
